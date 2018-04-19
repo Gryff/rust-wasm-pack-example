@@ -1,0 +1,14 @@
+[package]
+name = "rust-wasm-pack-example"
+version = "0.1.0"
+authors = ["Liam Griffin-Jowett <Gryff>"]
+description = "Playing around with wasm-pack"
+license = "ISC"
+repository = "https:://github.com/Gryff/rust-wasm-pack-example"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+wasm-bindgen="0.2"
+
