@@ -1,4 +1,4 @@
-
+/pkg/.npmrc
 /target
 **/*.rs.bk
 Cargo.lock

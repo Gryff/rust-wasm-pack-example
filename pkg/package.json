@@ -1,0 +1,11 @@
+{
+  "name":"@gryff/rust-wasm-pack-example",
+  "description":"Playing around with wasm-pack",
+  "version":"0.1.0",
+  "license":"ISC",
+  "repository":{
+    "type":"git",
+    "url":"https:://github.com/Gryff/rust-wasm-pack-example"
+  },
+  "files":["rust_wasm_pack_example.js","rust_wasm_pack_example_bg.wasm"]
+}
